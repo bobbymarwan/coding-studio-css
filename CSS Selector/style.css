@@ -1,0 +1,24 @@
+p {
+    font-size: 40px;
+    color: blue;
+}
+.simerah {
+    color: red;
+    font-size: 28px;
+}
+#hijau {
+    color: green;
+}
+
+* {
+    margin-left: 50px;
+}
+
+a[target="_blank"] {
+    font-size: 60px;
+}
+
+div > p {
+    font-size: 50px;
+    color: pink;
+}

@@ -1,0 +1,31 @@
+.satu {
+    color: #662525;
+    font-size: 40px;
+    background-color: black;
+    color: hsl(120, 100%, 50%);
+}
+
+.dua {
+    color: currentColor;
+}
+
+body {
+    margin: 50px;
+    font-size: 40px;
+}
+
+/* div {
+    border-top: 10px solid black;
+    border-bottom: 20px solid red;
+    border-left: 10px dashed blue;
+    border-right: 10px solid blueviolet;
+} */
+
+div {
+    border-top: solid black;
+    border-bottom: solid red;
+    border-left: dashed blue;
+    border-right: solid blueviolet;
+    border-width: 20px;
+    border-radius: 20px;
+}

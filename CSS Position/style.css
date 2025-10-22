@@ -1,0 +1,41 @@
+.static {
+    position: static;
+    width: 400px;
+    height: 300px;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+
+.relative {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    font-size: 40px;
+    background-color: antiquewhite;
+    left: 20px;
+    top: 100px;
+}
+
+.orangtua {
+    position: relative;
+    height: 700px;
+    width: 1200px;
+    background-color: bisque;
+}
+
+.absolute {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+body {
+    font-size: 40px;
+    height: 3000px;
+    background-color: aqua;
+}
+
+.fixed {
+    background-color: red;
+    position: sticky;
+}
