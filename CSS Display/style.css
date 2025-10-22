@@ -1,0 +1,39 @@
+body {
+    font-size: 40px;
+}
+
+.blok {
+    display: block;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.inline {
+    display: inline;
+    background-color: brown;
+    color: white;
+}
+
+.inline-block {
+    display: inline-block;
+    background-color: darkblue;
+    color: white;
+    width: 1300px;
+}
+
+.flex {
+    display: flex;
+}
+
+.pertama {
+    display: inline-block;
+    width: 400px;
+    background-color: bisque;
+}
+
+.kedua {
+    display: inline-block;
+    width: 700px;
+    background-color: brown;
+}
